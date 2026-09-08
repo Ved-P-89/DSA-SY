@@ -1,6 +1,7 @@
+//First project
 #include <stdio.h>
 
 int main() {
-    printf("DSA Tutorial 1 initialized successfully!\n");
+    printf("Hello World!\n");
     return 0;
 }
